@@ -1,6 +1,6 @@
 # Student Result Analysis
 
-This project focuses on analyzing student performance data using Python libraries like pandas ,matplotlib & seaborn, providing insights into student scores, identifying trends, and uncovering possible factors affecting results. The project utilizes various data analysis and visualization libraries to generate meaningful insights.
+This project focuses on analyzing student performance data using Python libraries like pandas ,matplotlib & seaborn.Providing key insights that can help understand how various factor impact acedemic performance.. The project utilizes various data analysis and visualization libraries to generate meaningful insights.
 
 ## Project Overview
 
