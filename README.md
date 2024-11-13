@@ -13,7 +13,8 @@ The **Student Result Analysis** project aims to:<br>
 
 - **Data Cleaning and Preprocessing**: Addressing missing values and ensuring data consistency.<br>
 - **Descriptive Analysis**: Summary statistics to provide an overview of the dataset.<br>
-- **Visualization**: Using plots and charts to reveal patterns in the data, including:<br>
+- **Visualization**:<br>
+    Using plots and charts to reveal patterns in the data, including:<br>
   - Score distribution across subjects<br>
   - Performance analysis based on different attributes<br>
   - Identification of high-performing and low-performing segments<br>
